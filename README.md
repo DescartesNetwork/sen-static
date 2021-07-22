@@ -1,0 +1,2 @@
+# sen-static
+Static Assets
