@@ -1,0 +1,9 @@
+{
+    "name": "Sentre",
+    "symbol": "SNTR",
+    "description": "The DApp Store For All Things on Solana",
+    "image": "https://raw.githubusercontent.com/DescartesNetwork/sen-static/master/square-logo.png",
+    "twitter": "https://twitter.com/SentreProtocol",
+    "coingeckoId": "sentre",
+    "website": "https://sentre.io/"
+}
